@@ -1,0 +1,664 @@
+Protein hits,--------------------------------------------------------,,,,,,,
+,,,,,,,,
+prot_hit_num,prot_acc,prot_desc,prot_score,prot_mass,prot_matches,prot_matches_sig,prot_sequences,prot_sequences_sig
+1,HS90B_HUMAN,Heat shock protein HSP 90-beta OS=Homo sapiens GN=HSP90AB1 PE=1 SV=4,4493,83554,206,200,41,40
+,,,,,,,,
+2,HS90A_HUMAN,Heat shock protein HSP 90-alpha OS=Homo sapiens GN=HSP90AA1 PE=1 SV=5,4367,85006,205,197,37,36
+,,,,,,,,
+3,TERA_HUMAN,Transitional endoplasmic reticulum ATPase OS=Homo sapiens GN=VCP PE=1 SV=4,2625,89950,137,129,23,23
+,,,,,,,,
+4,FTO_HUMAN,Protein fto OS=Homo sapiens GN=FTO PE=1 SV=3,1970,59043,89,89,22,22
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+8,ENPL_HUMAN,Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1,860,92696,37,37,26,26
+,,,,,,,,
+9,MCM6_HUMAN,DNA replication licensing factor MCM6 OS=Homo sapiens GN=MCM6 PE=1 SV=1,782,93801,31,30,20,19
+,,,,,,,,
+10,CALX_HUMAN,Calnexin OS=Homo sapiens GN=CANX PE=1 SV=2,705,67982,36,36,16,16
+,,,,,,,,
+11,ACTN4_HUMAN,Alpha-actinin-4 OS=Homo sapiens GN=ACTN4 PE=1 SV=2,670,105245,32,32,22,22
+,,,,,,,,
+12,GANAB_HUMAN,Neutral alpha-glucosidase AB OS=Homo sapiens GN=GANAB PE=1 SV=3,640,107263,35,32,21,21
+,,,,,,,,
+13,XPO2_HUMAN,Exportin-2 OS=Homo sapiens GN=CSE1L PE=1 SV=3,622,111145,30,28,22,21
+,,,,,,,,
+14,MCM4_HUMAN,DNA replication licensing factor MCM4 OS=Homo sapiens GN=MCM4 PE=1 SV=5,618,97068,26,26,15,15
+,,,,,,,,
+15,C1TC_HUMAN,"C-1-tetrahydrofolate synthase, cytoplasmic OS=Homo sapiens GN=MTHFD1 PE=1 SV=3",611,102180,23,23,18,18
+,,,,,,,,
+16,EF2_HUMAN,Elongation factor 2 OS=Homo sapiens GN=EEF2 PE=1 SV=4,596,96246,27,27,20,20
+,,,,,,,,
+17,FLNA_HUMAN,Filamin-A OS=Homo sapiens GN=FLNA PE=1 SV=4,552,283301,19,18,14,13
+,,,,,,,,
+18,NUP93_HUMAN,Nuclear pore complex protein Nup93 OS=Homo sapiens GN=NUP93 PE=1 SV=2,543,93943,21,21,18,18
+,,,,,,,,
+19,IMB1_HUMAN,Importin subunit beta-1 OS=Homo sapiens GN=KPNB1 PE=1 SV=2,512,98420,25,23,16,15
+,,,,,,,,
+20,USO1_HUMAN,General vesicular transport factor p115 OS=Homo sapiens GN=USO1 PE=1 SV=2,497,108740,15,14,11,11
+,,,,,,,,
+21,MCM7_HUMAN,DNA replication licensing factor MCM7 OS=Homo sapiens GN=MCM7 PE=1 SV=4,476,81884,21,21,14,14
+,,,,,,,,
+22,EIF3C_HUMAN,Eukaryotic translation initiation factor 3 subunit C OS=Homo sapiens GN=EIF3C PE=1 SV=1,454,105962,20,19,15,15
+,,,,,,,,
+23,TIF1B_HUMAN,Transcription intermediary factor 1-beta OS=Homo sapiens GN=TRIM28 PE=1 SV=5,453,90261,17,17,11,11
+,,,,,,,,
+24,TFR1_HUMAN,Transferrin receptor protein 1 OS=Homo sapiens GN=TFRC PE=1 SV=2,450,85274,21,21,16,16
+,,,,,,,,
+25,SYMC_HUMAN,"Methionyl-tRNA synthetase, cytoplasmic OS=Homo sapiens GN=MARS PE=1 SV=2",441,102249,20,20,13,13
+,,,,,,,,
+26,PSMD2_HUMAN,26S proteasome non-ATPase regulatory subunit 2 OS=Homo sapiens GN=PSMD2 PE=1 SV=3,437,100877,22,21,17,16
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+28,ACTN1_HUMAN,Alpha-actinin-1 OS=Homo sapiens GN=ACTN1 PE=1 SV=2,424,103563,21,21,16,16
+,,,,,,,,
+29,HS105_HUMAN,Heat shock protein 105 kDa OS=Homo sapiens GN=HSPH1 PE=1 SV=1,408,97716,16,16,13,13
+,,,,,,,,
+30,TNPO1_HUMAN,Transportin-1 OS=Homo sapiens GN=TNPO1 PE=1 SV=2,401,103771,20,19,11,11
+,,,,,,,,
+31,AT1A1_HUMAN,Sodium/potassium-transporting ATPase subunit alpha-1 OS=Homo sapiens GN=ATP1A1 PE=1 SV=1,398,114135,13,13,11,11
+,,,,,,,,
+32,SFPQ_HUMAN,"Splicing factor, proline- and glutamine-rich OS=Homo sapiens GN=SFPQ PE=1 SV=2",384,76216,19,18,13,13
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+34,COPG_HUMAN,Coatomer subunit gamma OS=Homo sapiens GN=COPG PE=1 SV=1,375,98967,19,19,13,13
+,,,,,,,,
+35,FUBP2_HUMAN,Far upstream element-binding protein 2 OS=Homo sapiens GN=KHSRP PE=1 SV=3,372,73443,11,11,10,10
+,,,,,,,,
+36,KU86_HUMAN,ATP-dependent DNA helicase 2 subunit 2 OS=Homo sapiens GN=XRCC5 PE=1 SV=3,371,83222,19,19,14,14
+,,,,,,,,
+37,COPB2_HUMAN,Coatomer subunit beta~ OS=Homo sapiens GN=COPB2 PE=1 SV=2,370,103278,17,17,13,13
+,,,,,,,,
+38,SYQ_HUMAN,Glutaminyl-tRNA synthetase OS=Homo sapiens GN=QARS PE=1 SV=1,369,88655,15,15,14,14
+,,,,,,,,
+39,TSC2_HUMAN,Tuberin OS=Homo sapiens GN=TSC2 PE=1 SV=2,366,202591,19,19,3,3
+,,,,,,,,
+40,COPB_HUMAN,Coatomer subunit beta OS=Homo sapiens GN=COPB1 PE=1 SV=3,365,108214,16,16,10,10
+,,,,,,,,
+41,HSP74_HUMAN,Heat shock 70 kDa protein 4 OS=Homo sapiens GN=HSPA4 PE=1 SV=4,363,95127,11,11,9,9
+,,,,,,,,
+42,MCM3_HUMAN,DNA replication licensing factor MCM3 OS=Homo sapiens GN=MCM3 PE=1 SV=3,358,91551,21,21,14,14
+,,,,,,,,
+43,4F2_HUMAN,4F2 cell-surface antigen heavy chain OS=Homo sapiens GN=SLC3A2 PE=1 SV=3,355,68180,14,14,11,11
+,,,,,,,,
+44,NUCL_HUMAN,Nucleolin OS=Homo sapiens GN=NCL PE=1 SV=3,344,76625,16,15,13,12
+,,,,,,,,
+45,CTNA1_HUMAN,Catenin alpha-1 OS=Homo sapiens GN=CTNNA1 PE=1 SV=1,328,100693,13,13,12,12
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+47,HXK2_HUMAN,Hexokinase-2 OS=Homo sapiens GN=HK2 PE=1 SV=2,323,103739,10,10,8,8
+,,,,,,,,
+48,HOOK1_HUMAN,Protein Hook homolog 1 OS=Homo sapiens GN=HOOK1 PE=1 SV=2,307,85222,7,7,6,6
+,,,,,,,,
+49,CLH1_HUMAN,Clathrin heavy chain 1 OS=Homo sapiens GN=CLTC PE=1 SV=5,305,193260,12,12,9,9
+,,,,,,,,
+50,C1TM_HUMAN,"Monofunctional C1-tetrahydrofolate synthase, mitochondrial OS=Homo sapiens GN=MTHFD1L PE=1 SV=1",304,106636,14,14,8,8
+,,,,,,,,
+51,MCM5_HUMAN,DNA replication licensing factor MCM5 OS=Homo sapiens GN=MCM5 PE=1 SV=5,303,83031,13,13,12,12
+,,,,,,,,
+52,HS74L_HUMAN,Heat shock 70 kDa protein 4L OS=Homo sapiens GN=HSPA4L PE=1 SV=2,301,95453,10,10,7,7
+,,,,,,,,
+53,LONM_HUMAN,"Lon protease homolog, mitochondrial OS=Homo sapiens GN=LONP1 PE=1 SV=2",297,106936,13,13,11,11
+,,,,,,,,
+54,MSH2_HUMAN,DNA mismatch repair protein Msh2 OS=Homo sapiens GN=MSH2 PE=1 SV=1,295,105418,14,14,12,12
+,,,,,,,,
+55,UN45A_HUMAN,Protein unc-45 homolog A OS=Homo sapiens GN=UNC45A PE=1 SV=1,289,104266,14,14,11,11
+,,,,,,,,
+56,FAS_HUMAN,Fatty acid synthase OS=Homo sapiens GN=FASN PE=1 SV=3,275,275877,11,11,8,8
+,,,,,,,,
+57,CTNB1_HUMAN,Catenin beta-1 OS=Homo sapiens GN=CTNNB1 PE=1 SV=1,272,86069,12,12,10,10
+,,,,,,,,
+58,LETM1_HUMAN,"LETM1 and EF-hand domain-containing protein 1, mitochondrial OS=Homo sapiens GN=LETM1 PE=1 SV=1",267,83986,10,10,8,8
+,,,,,,,,
+59,PUR2_HUMAN,Trifunctional purine biosynthetic protein adenosine-3 OS=Homo sapiens GN=GART PE=1 SV=1,258,108953,12,11,11,11
+,,,,,,,,
+60,AL1L2_HUMAN,Probable 10-formyltetrahydrofolate dehydrogenase ALDH1L2 OS=Homo sapiens GN=ALDH1L2 PE=1 SV=2,257,102365,13,13,12,12
+,,,,,,,,
+61,KINH_HUMAN,Kinesin-1 heavy chain OS=Homo sapiens GN=KIF5B PE=1 SV=1,246,110358,8,8,8,8
+,,,,,,,,
+62,P5CS_HUMAN,Delta-1-pyrroline-5-carboxylate synthetase OS=Homo sapiens GN=ALDH18A1 PE=1 SV=2,240,87989,10,10,9,9
+,,,,,,,,
+63,XPO7_HUMAN,Exportin-7 OS=Homo sapiens GN=XPO7 PE=1 SV=3,233,125196,11,11,8,8
+,,,,,,,,
+64,ACLY_HUMAN,ATP-citrate synthase OS=Homo sapiens GN=ACLY PE=1 SV=3,228,121674,10,10,6,6
+,,,,,,,,
+65,ACAP2_HUMAN,"Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Homo sapiens GN=ACAP2 PE=1 SV=3",218,88943,10,10,9,9
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+67,RIR1_HUMAN,Ribonucleoside-diphosphate reductase large subunit OS=Homo sapiens GN=RRM1 PE=1 SV=1,211,90925,6,6,4,4
+,,,,,,,,
+68,EIF3B_HUMAN,Eukaryotic translation initiation factor 3 subunit B OS=Homo sapiens GN=EIF3B PE=1 SV=3,211,92823,12,12,12,12
+,,,,,,,,
+69,RABE1_HUMAN,Rab GTPase-binding effector protein 1 OS=Homo sapiens GN=RABEP1 PE=1 SV=2,210,99629,8,8,6,6
+,,,,,,,,
+70,HSP71_HUMAN,Heat shock 70 kDa protein 1A/1B OS=Homo sapiens GN=HSPA1A PE=1 SV=5,206,70294,10,10,7,7
+,,,,,,,,
+71,GRAP1_HUMAN,GRIP1-associated protein 1 OS=Homo sapiens GN=GRIPAP1 PE=1 SV=1,205,96273,6,6,5,5
+,,,,,,,,
+72,PDC6I_HUMAN,Programmed cell death 6-interacting protein OS=Homo sapiens GN=PDCD6IP PE=1 SV=1,204,96590,10,10,9,9
+,,,,,,,,
+73,CSDE1_HUMAN,Cold shock domain-containing protein E1 OS=Homo sapiens GN=CSDE1 PE=1 SV=2,200,89684,9,9,8,8
+,,,,,,,,
+74,ELP2_HUMAN,Elongator complex protein 2 OS=Homo sapiens GN=ELP2 PE=1 SV=2,197,94266,7,7,7,7
+,,,,,,,,
+75,RIOK1_HUMAN,Serine/threonine-protein kinase RIO1 OS=Homo sapiens GN=RIOK1 PE=1 SV=2,196,65884,6,6,5,5
+,,,,,,,,
+76,ENAH_HUMAN,Protein enabled homolog OS=Homo sapiens GN=ENAH PE=1 SV=2,195,66584,8,8,7,7
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+78,SEC63_HUMAN,Translocation protein SEC63 homolog OS=Homo sapiens GN=SEC63 PE=1 SV=2,190,88341,9,9,6,6
+,,,,,,,,
+79,STRN3_HUMAN,Striatin-3 OS=Homo sapiens GN=STRN3 PE=1 SV=3,185,87554,9,9,6,6
+,,,,,,,,
+80,PSMD1_HUMAN,26S proteasome non-ATPase regulatory subunit 1 OS=Homo sapiens GN=PSMD1 PE=1 SV=2,180,106795,10,10,7,7
+,,,,,,,,
+81,CUL4B_HUMAN,Cullin-4B OS=Homo sapiens GN=CUL4B PE=1 SV=3,179,102805,7,7,7,7
+,,,,,,,,
+82,TNPO2_HUMAN,Transportin-2 OS=Homo sapiens GN=TNPO2 PE=1 SV=3,177,102862,8,8,5,5
+,,,,,,,,
+83,HORN_HUMAN,Hornerin OS=Homo sapiens GN=HRNR PE=1 SV=2,174,283140,5,5,4,4
+,,,,,,,,
+84,GTF2I_HUMAN,General transcription factor II-I OS=Homo sapiens GN=GTF2I PE=1 SV=2,171,112859,6,6,5,5
+,,,,,,,,
+85,IF4B_HUMAN,Eukaryotic translation initiation factor 4B OS=Homo sapiens GN=EIF4B PE=1 SV=2,168,69167,10,10,7,7
+,,,,,,,,
+86,DHX15_HUMAN,Putative pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15 OS=Homo sapiens GN=DHX15 PE=1 SV=2,167,91673,8,7,8,7
+,,,,,,,,
+87,SF3A1_HUMAN,Splicing factor 3A subunit 1 OS=Homo sapiens GN=SF3A1 PE=1 SV=1,167,88888,5,5,5,5
+,,,,,,,,
+88,IRS4_HUMAN,Insulin receptor substrate 4 OS=Homo sapiens GN=IRS4 PE=1 SV=1,166,134711,6,6,6,6
+,,,,,,,,
+89,GEPH_HUMAN,Gephyrin OS=Homo sapiens GN=GPHN PE=1 SV=1,166,80382,5,5,5,5
+,,,,,,,,
+90,RNZ2_HUMAN,Zinc phosphodiesterase ELAC protein 2 OS=Homo sapiens GN=ELAC2 PE=1 SV=2,164,93415,6,6,5,5
+,,,,,,,,
+91,TLE3_HUMAN,Transducin-like enhancer protein 3 OS=Homo sapiens GN=TLE3 PE=1 SV=2,161,84162,4,4,4,4
+,,,,,,,,
+92,AP1G1_HUMAN,AP-1 complex subunit gamma-1 OS=Homo sapiens GN=AP1G1 PE=1 SV=5,158,92148,7,7,5,5
+,,,,,,,,
+93,MCM2_HUMAN,DNA replication licensing factor MCM2 OS=Homo sapiens GN=MCM2 PE=1 SV=4,156,102516,7,7,6,6
+,,,,,,,,
+94,UBA1_HUMAN,Ubiquitin-like modifier-activating enzyme 1 OS=Homo sapiens GN=UBA1 PE=1 SV=3,155,118858,7,7,6,6
+,,,,,,,,
+95,HEAT2_HUMAN,HEAT repeat-containing protein 2 OS=Homo sapiens GN=HEATR2 PE=1 SV=3,154,94746,8,8,6,6
+,,,,,,,,
+96,GLU2B_HUMAN,Glucosidase 2 subunit beta OS=Homo sapiens GN=PRKCSH PE=1 SV=2,152,60357,7,7,6,6
+,,,,,,,,
+97,DDX1_HUMAN,ATP-dependent RNA helicase DDX1 OS=Homo sapiens GN=DDX1 PE=1 SV=2,149,83349,7,7,5,5
+,,,,,,,,
+98,OSBL9_HUMAN,Oxysterol-binding protein-related protein 9 OS=Homo sapiens GN=OSBPL9 PE=1 SV=2,149,83817,3,3,3,3
+,,,,,,,,
+99,HSP7C_HUMAN,Heat shock cognate 71 kDa protein OS=Homo sapiens GN=HSPA8 PE=1 SV=1,147,71082,9,8,5,5
+,,,,,,,,
+100,ILF3_HUMAN,Interleukin enhancer-binding factor 3 OS=Homo sapiens GN=ILF3 PE=1 SV=3,146,95678,7,7,6,6
+,,,,,,,,
+101,SYAC_HUMAN,"Alanyl-tRNA synthetase, cytoplasmic OS=Homo sapiens GN=AARS PE=1 SV=2",146,107484,7,7,6,6
+,,,,,,,,
+102,AMPD2_HUMAN,AMP deaminase 2 OS=Homo sapiens GN=AMPD2 PE=1 SV=2,142,101422,7,7,7,7
+,,,,,,,,
+103,PLEC1_HUMAN,Plectin-1 OS=Homo sapiens GN=PLEC1 PE=1 SV=3,140,533462,5,5,5,5
+,,,,,,,,
+104,CLPT1_HUMAN,Cleft lip and palate transmembrane protein 1 OS=Homo sapiens GN=CLPTM1 PE=1 SV=1,139,76277,5,5,3,3
+,,,,,,,,
+105,NARG1_HUMAN,NMDA receptor-regulated protein 1 OS=Homo sapiens GN=NARG1 PE=1 SV=1,139,102462,10,10,9,9
+,,,,,,,,
+106,OGFR_HUMAN,Opioid growth factor receptor OS=Homo sapiens GN=OGFR PE=1 SV=3,137,73850,3,3,3,3
+,,,,,,,,
+107,ESYT2_HUMAN,Extended synaptotagmin-2 OS=Homo sapiens GN=ESYT2 PE=1 SV=1,135,102807,5,5,4,4
+,,,,,,,,
+108,SYEP_HUMAN,Bifunctional aminoacyl-tRNA synthetase OS=Homo sapiens GN=EPRS PE=1 SV=5,134,172080,7,7,6,6
+,,,,,,,,
+109,XPOT_HUMAN,Exportin-T OS=Homo sapiens GN=XPOT PE=1 SV=2,133,111148,7,7,6,6
+,,,,,,,,
+110,PLOD2_HUMAN,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 OS=Homo sapiens GN=PLOD2 PE=1 SV=2",132,85373,2,2,1,1
+,,,,,,,,
+111,IF4G1_HUMAN,Eukaryotic translation initiation factor 4 gamma 1 OS=Homo sapiens GN=EIF4G1 PE=1 SV=3,131,176168,5,5,5,5
+,,,,,,,,
+112,P4R3A_HUMAN,Serine/threonine-protein phosphatase 4 regulatory subunit 3A OS=Homo sapiens GN=SMEK1 PE=1 SV=1,130,95935,2,2,2,2
+,,,,,,,,
+113,UFL1_HUMAN,E3 UFM1-protein ligase 1 OS=Homo sapiens GN=KIAA0776 PE=1 SV=2,130,89996,7,6,5,4
+,,,,,,,,
+114,TAF4_HUMAN,Transcription initiation factor TFIID subunit 4 OS=Homo sapiens GN=TAF4 PE=1 SV=2,129,110332,2,2,2,2
+,,,,,,,,
+115,NUP88_HUMAN,Nuclear pore complex protein Nup88 OS=Homo sapiens GN=NUP88 PE=1 SV=2,128,84629,6,6,5,5
+,,,,,,,,
+116,CPSF2_HUMAN,Cleavage and polyadenylation specificity factor subunit 2 OS=Homo sapiens GN=CPSF2 PE=1 SV=2,127,89286,5,5,4,4
+,,,,,,,,
+117,PSA_HUMAN,Puromycin-sensitive aminopeptidase OS=Homo sapiens GN=NPEPPS PE=1 SV=2,123,103895,6,6,6,6
+,,,,,,,,
+118,DYN2_HUMAN,Dynamin-2 OS=Homo sapiens GN=DNM2 PE=1 SV=2,120,98345,8,8,7,7
+,,,,,,,,
+119,AP1B1_HUMAN,AP-1 complex subunit beta-1 OS=Homo sapiens GN=AP1B1 PE=1 SV=2,119,105482,6,6,6,6
+,,,,,,,,
+120,NSUN2_HUMAN,tRNA (cytosine-5-)-methyltransferase NSUN2 OS=Homo sapiens GN=NSUN2 PE=1 SV=2,118,87214,6,6,5,5
+,,,,,,,,
+121,MOGS_HUMAN,Mannosyl-oligosaccharide glucosidase OS=Homo sapiens GN=MOGS PE=1 SV=5,118,92032,4,4,3,3
+,,,,,,,,
+122,VPS16_HUMAN,Vacuolar protein sorting-associated protein 16 homolog OS=Homo sapiens GN=VPS16 PE=1 SV=2,118,95660,3,3,3,3
+,,,,,,,,
+123,IMMT_HUMAN,Mitochondrial inner membrane protein OS=Homo sapiens GN=IMMT PE=1 SV=1,117,84026,7,7,6,6
+,,,,,,,,
+124,TNPO3_HUMAN,Transportin-3 OS=Homo sapiens GN=TNPO3 PE=1 SV=3,115,105961,5,5,5,5
+,,,,,,,,
+125,CPT1A_HUMAN,"Carnitine O-palmitoyltransferase 1, liver isoform OS=Homo sapiens GN=CPT1A PE=1 SV=2",114,88995,3,3,3,3
+,,,,,,,,
+126,UBP5_HUMAN,Ubiquitin carboxyl-terminal hydrolase 5 OS=Homo sapiens GN=USP5 PE=1 SV=2,113,96638,3,3,3,3
+,,,,,,,,
+127,DJC10_HUMAN,DnaJ homolog subfamily C member 10 OS=Homo sapiens GN=DNAJC10 PE=1 SV=2,113,92333,5,5,5,5
+,,,,,,,,
+128,GRP75_HUMAN,"Stress-70 protein, mitochondrial OS=Homo sapiens GN=HSPA9 PE=1 SV=2",113,73920,3,3,3,3
+,,,,,,,,
+129,OSB11_HUMAN,Oxysterol-binding protein-related protein 11 OS=Homo sapiens GN=OSBPL11 PE=1 SV=2,113,84332,3,3,2,2
+,,,,,,,,
+130,CAPR1_HUMAN,Caprin-1 OS=Homo sapiens GN=CAPRIN1 PE=1 SV=2,113,78489,4,4,4,4
+,,,,,,,,
+131,WRIP1_HUMAN,ATPase WRNIP1 OS=Homo sapiens GN=WRNIP1 PE=1 SV=2,112,72829,5,5,5,5
+,,,,,,,,
+132,CSTF3_HUMAN,Cleavage stimulation factor subunit 3 OS=Homo sapiens GN=CSTF3 PE=1 SV=1,112,83325,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+134,ANM5_HUMAN,Protein arginine N-methyltransferase 5 OS=Homo sapiens GN=PRMT5 PE=1 SV=4,111,73322,5,5,4,4
+,,,,,,,,
+135,SYAM_HUMAN,"Probable alanyl-tRNA synthetase, mitochondrial OS=Homo sapiens GN=AARS2 PE=1 SV=1",108,108299,6,6,5,5
+,,,,,,,,
+136,RANB9_HUMAN,Ran-binding protein 9 OS=Homo sapiens GN=RANBP9 PE=1 SV=1,107,78653,2,2,2,2
+,,,,,,,,
+137,XPO1_HUMAN,Exportin-1 OS=Homo sapiens GN=XPO1 PE=1 SV=1,106,124447,5,5,4,4
+,,,,,,,,
+138,RN219_HUMAN,RING finger protein 219 OS=Homo sapiens GN=RNF219 PE=1 SV=1,105,82377,4,4,3,3
+,,,,,,,,
+139,ALBU_HUMAN,Serum albumin OS=Homo sapiens GN=ALB PE=1 SV=2,103,71317,4,4,3,3
+,,,,,,,,
+140,HCFC1_HUMAN,Host cell factor 1 OS=Homo sapiens GN=HCFC1 PE=1 SV=2,101,210598,5,5,4,4
+,,,,,,,,
+141,INT7_HUMAN,Integrator complex subunit 7 OS=Homo sapiens GN=INTS7 PE=1 SV=1,101,108021,4,4,3,3
+,,,,,,,,
+142,NU107_HUMAN,Nuclear pore complex protein Nup107 OS=Homo sapiens GN=NUP107 PE=1 SV=1,100,107048,5,5,5,5
+,,,,,,,,
+143,SYTC_HUMAN,"Threonyl-tRNA synthetase, cytoplasmic OS=Homo sapiens GN=TARS PE=1 SV=3",100,84294,5,5,3,3
+,,,,,,,,
+144,NOC2L_HUMAN,Nucleolar complex protein 2 homolog OS=Homo sapiens GN=NOC2L PE=1 SV=3,99,85707,5,5,5,5
+,,,,,,,,
+145,STRN4_HUMAN,Striatin-4 OS=Homo sapiens GN=STRN4 PE=1 SV=2,99,81287,4,4,2,2
+,,,,,,,,
+146,RRBP1_HUMAN,Ribosome-binding protein 1 OS=Homo sapiens GN=RRBP1 PE=1 SV=4,98,152780,3,3,3,3
+,,,,,,,,
+147,CD166_HUMAN,CD166 antigen OS=Homo sapiens GN=ALCAM PE=1 SV=2,98,65745,3,3,3,3
+,,,,,,,,
+148,MED16_HUMAN,Mediator of RNA polymerase II transcription subunit 16 OS=Homo sapiens GN=MED16 PE=1 SV=2,98,98441,2,2,2,2
+,,,,,,,,
+149,COPG2_HUMAN,Coatomer subunit gamma-2 OS=Homo sapiens GN=COPG2 PE=1 SV=1,98,98700,5,5,5,5
+,,,,,,,,
+150,SF3B3_HUMAN,Splicing factor 3B subunit 3 OS=Homo sapiens GN=SF3B3 PE=1 SV=4,98,136575,3,3,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+152,HXK1_HUMAN,Hexokinase-1 OS=Homo sapiens GN=HK1 PE=1 SV=3,96,103561,3,3,3,3
+,,,,,,,,
+153,NKRF_HUMAN,NF-kappa-B-repressing factor OS=Homo sapiens GN=NKRF PE=1 SV=2,96,78308,3,3,2,2
+,,,,,,,,
+154,AT2A2_HUMAN,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2 OS=Homo sapiens GN=ATP2A2 PE=1 SV=1,94,116336,3,3,3,3
+,,,,,,,,
+155,AP2B1_HUMAN,AP-2 complex subunit beta OS=Homo sapiens GN=AP2B1 PE=1 SV=1,94,105398,6,5,6,5
+,,,,,,,,
+156,SND1_HUMAN,Staphylococcal nuclease domain-containing protein 1 OS=Homo sapiens GN=SND1 PE=1 SV=1,94,102618,3,3,3,3
+,,,,,,,,
+157,EXOC4_HUMAN,Exocyst complex component 4 OS=Homo sapiens GN=EXOC4 PE=1 SV=1,94,111170,2,2,2,2
+,,,,,,,,
+158,P3H1_HUMAN,Prolyl 3-hydroxylase 1 OS=Homo sapiens GN=LEPRE1 PE=1 SV=2,94,84196,2,2,2,2
+,,,,,,,,
+159,LAS1L_HUMAN,Protein LAS1 homolog OS=Homo sapiens GN=LAS1L PE=1 SV=2,93,83982,3,3,2,2
+,,,,,,,,
+160,GOGA5_HUMAN,Golgin subfamily A member 5 OS=Homo sapiens GN=GOLGA5 PE=1 SV=2,93,82997,3,3,3,3
+,,,,,,,,
+161,KIF11_HUMAN,Kinesin-like protein KIF11 OS=Homo sapiens GN=KIF11 PE=1 SV=2,92,120111,3,3,3,3
+,,,,,,,,
+162,EIF3A_HUMAN,Eukaryotic translation initiation factor 3 subunit A OS=Homo sapiens GN=EIF3A PE=1 SV=1,92,166867,5,5,5,5
+,,,,,,,,
+163,MRE11_HUMAN,Double-strand break repair protein MRE11A OS=Homo sapiens GN=MRE11A PE=1 SV=3,91,80885,4,3,3,2
+,,,,,,,,
+164,TF3C3_HUMAN,General transcription factor 3C polypeptide 3 OS=Homo sapiens GN=GTF3C3 PE=1 SV=1,91,102006,3,3,3,3
+,,,,,,,,
+165,NNTM_HUMAN,"NAD(P) transhydrogenase, mitochondrial OS=Homo sapiens GN=NNT PE=1 SV=3",90,114564,6,6,5,5
+,,,,,,,,
+166,SYIM_HUMAN,"Isoleucyl-tRNA synthetase, mitochondrial OS=Homo sapiens GN=IARS2 PE=1 SV=2",88,114688,3,3,3,3
+,,,,,,,,
+167,SAE2_HUMAN,SUMO-activating enzyme subunit 2 OS=Homo sapiens GN=UBA2 PE=1 SV=2,88,71749,4,4,4,4
+,,,,,,,,
+168,AMOT_HUMAN,Angiomotin OS=Homo sapiens GN=AMOT PE=1 SV=1,88,118469,6,6,4,4
+,,,,,,,,
+169,LPPRC_HUMAN,"Leucine-rich PPR motif-containing protein, mitochondrial OS=Homo sapiens GN=LRPPRC PE=1 SV=3",87,159003,2,2,2,2
+,,,,,,,,
+170,DPP9_HUMAN,Dipeptidyl peptidase 9 OS=Homo sapiens GN=DPP9 PE=1 SV=3,87,98999,3,3,3,3
+,,,,,,,,
+171,UBIQ_HUMAN,Ubiquitin OS=Homo sapiens GN=RPS27A PE=1 SV=1,85,8560,5,5,4,4
+,,,,,,,,
+172,LAMP2_HUMAN,Lysosome-associated membrane glycoprotein 2 OS=Homo sapiens GN=LAMP2 PE=1 SV=2,85,45503,2,2,1,1
+,,,,,,,,
+173,PRP6_HUMAN,Pre-mRNA-processing factor 6 OS=Homo sapiens GN=PRPF6 PE=1 SV=1,85,107656,3,3,3,3
+,,,,,,,,
+174,PK3C3_HUMAN,Phosphatidylinositol 3-kinase catalytic subunit type 3 OS=Homo sapiens GN=PIK3C3 PE=1 SV=1,85,102169,4,4,3,3
+,,,,,,,,
+175,PAPOA_HUMAN,Poly(A) polymerase alpha OS=Homo sapiens GN=PAPOLA PE=1 SV=4,84,83247,3,3,3,3
+,,,,,,,,
+176,EZRI_HUMAN,Ezrin OS=Homo sapiens GN=EZR PE=1 SV=4,83,69484,7,5,5,4
+,,,,,,,,
+177,HELLS_HUMAN,Lymphoid-specific helicase OS=Homo sapiens GN=HELLS PE=1 SV=1,82,97639,4,4,3,3
+,,,,,,,,
+178,STRN_HUMAN,Striatin OS=Homo sapiens GN=STRN PE=1 SV=4,82,86535,3,3,3,3
+,,,,,,,,
+179,FILA2_HUMAN,Filaggrin-2 OS=Homo sapiens GN=FLG2 PE=1 SV=1,82,249296,2,2,2,2
+,,,,,,,,
+180,LEO1_HUMAN,RNA polymerase-associated protein LEO1 OS=Homo sapiens GN=LEO1 PE=1 SV=1,81,75473,4,4,4,4
+,,,,,,,,
+181,TBCD5_HUMAN,TBC1 domain family member 5 OS=Homo sapiens GN=TBC1D5 PE=1 SV=1,81,89519,2,2,2,2
+,,,,,,,,
+182,GRP78_HUMAN,78 kDa glucose-regulated protein OS=Homo sapiens GN=HSPA5 PE=1 SV=2,80,72402,3,3,3,3
+,,,,,,,,
+183,RADI_HUMAN,Radixin OS=Homo sapiens GN=RDX PE=1 SV=1,80,68635,6,5,5,4
+,,,,,,,,
+184,HGS_HUMAN,Hepatocyte growth factor-regulated tyrosine kinase substrate OS=Homo sapiens GN=HGS PE=1 SV=1,80,86708,3,3,3,3
+,,,,,,,,
+185,IPO8_HUMAN,Importin-8 OS=Homo sapiens GN=IPO8 PE=1 SV=2,78,120945,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+187,CND2_HUMAN,Condensin complex subunit 2 OS=Homo sapiens GN=NCAPH PE=1 SV=3,77,83310,5,5,5,5
+,,,,,,,,
+188,HNRPU_HUMAN,Heterogeneous nuclear ribonucleoprotein U OS=Homo sapiens GN=HNRNPU PE=1 SV=6,77,91269,5,5,3,3
+,,,,,,,,
+189,CTND1_HUMAN,Catenin delta-1 OS=Homo sapiens GN=CTNND1 PE=1 SV=1,76,108674,4,4,4,4
+,,,,,,,,
+190,SATB2_HUMAN,DNA-binding protein SATB2 OS=Homo sapiens GN=SATB2 PE=1 SV=2,76,83017,3,3,2,2
+,,,,,,,,
+191,CUL1_HUMAN,Cullin-1 OS=Homo sapiens GN=CUL1 PE=1 SV=2,76,90306,5,5,5,5
+,,,,,,,,
+192,SUZ12_HUMAN,Polycomb protein SUZ12 OS=Homo sapiens GN=SUZ12 PE=1 SV=3,74,83744,3,3,3,3
+,,,,,,,,
+193,PYGL_HUMAN,"Glycogen phosphorylase, liver form OS=Homo sapiens GN=PYGL PE=1 SV=4",74,97486,4,4,4,4
+,,,,,,,,
+194,COG3_HUMAN,Conserved oligomeric Golgi complex subunit 3 OS=Homo sapiens GN=COG3 PE=1 SV=3,73,95006,2,2,2,2
+,,,,,,,,
+195,VPS35_HUMAN,Vacuolar protein sorting-associated protein 35 OS=Homo sapiens GN=VPS35 PE=1 SV=2,73,92447,2,2,2,2
+,,,,,,,,
+196,MD1L1_HUMAN,Mitotic spindle assembly checkpoint protein MAD1 OS=Homo sapiens GN=MAD1L1 PE=1 SV=2,72,83301,3,3,3,3
+,,,,,,,,
+197,BICD2_HUMAN,Protein bicaudal D homolog 2 OS=Homo sapiens GN=BICD2 PE=1 SV=1,71,93704,2,2,2,2
+,,,,,,,,
+198,EXOC1_HUMAN,Exocyst complex component 1 OS=Homo sapiens GN=EXOC1 PE=1 SV=4,68,102772,2,2,1,1
+,,,,,,,,
+199,SYIC_HUMAN,"Isoleucyl-tRNA synthetase, cytoplasmic OS=Homo sapiens GN=IARS PE=1 SV=2",68,145718,4,4,3,3
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+201,CIP2A_HUMAN,Protein CIP2A OS=Homo sapiens GN=KIAA1524 PE=1 SV=2,67,103318,3,3,3,3
+,,,,,,,,
+202,OPA1_HUMAN,"Dynamin-like 120 kDa protein, mitochondrial OS=Homo sapiens GN=OPA1 PE=1 SV=3",67,112131,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+204,MED25_HUMAN,Mediator of RNA polymerase II transcription subunit 25 OS=Homo sapiens GN=MED25 PE=1 SV=2,66,78635,2,2,1,1
+,,,,,,,,
+205,PCBP1_HUMAN,Poly(rC)-binding protein 1 OS=Homo sapiens GN=PCBP1 PE=1 SV=2,66,37987,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+207,DDX21_HUMAN,Nucleolar RNA helicase 2 OS=Homo sapiens GN=DDX21 PE=1 SV=5,66,87804,2,2,2,2
+,,,,,,,,
+208,EF1A1_HUMAN,Elongation factor 1-alpha 1 OS=Homo sapiens GN=EEF1A1 PE=1 SV=1,64,50451,2,2,2,2
+,,,,,,,,
+209,A16A1_HUMAN,Aldehyde dehydrogenase family 16 member A1 OS=Homo sapiens GN=ALDH16A1 PE=1 SV=2,63,86100,2,2,1,1
+,,,,,,,,
+210,AP2A2_HUMAN,AP-2 complex subunit alpha-2 OS=Homo sapiens GN=AP2A2 PE=1 SV=2,62,104807,3,3,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+212,DDB1_HUMAN,DNA damage-binding protein 1 OS=Homo sapiens GN=DDB1 PE=1 SV=1,61,128142,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+215,SMRC1_HUMAN,SWI/SNF complex subunit SMARCC1 OS=Homo sapiens GN=SMARCC1 PE=1 SV=3,60,123303,2,2,1,1
+,,,,,,,,
+216,SAFB1_HUMAN,Scaffold attachment factor B1 OS=Homo sapiens GN=SAFB PE=1 SV=4,59,103036,3,3,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+218,AASS_HUMAN,"Alpha-aminoadipic semialdehyde synthase, mitochondrial OS=Homo sapiens GN=AASS PE=1 SV=1",59,102808,3,3,3,3
+,,,,,,,,
+219,ZW10_HUMAN,Centromere/kinetochore protein zw10 homolog OS=Homo sapiens GN=ZW10 PE=1 SV=3,58,89628,4,4,4,4
+,,,,,,,,
+220,SC5A6_HUMAN,Sodium-dependent multivitamin transporter OS=Homo sapiens GN=SLC5A6 PE=2 SV=2,58,69509,4,4,1,1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+223,AP2A1_HUMAN,AP-2 complex subunit alpha-1 OS=Homo sapiens GN=AP2A1 PE=1 SV=3,57,108561,3,3,2,2
+,,,,,,,,
+224,ACON_HUMAN,"Aconitate hydratase, mitochondrial OS=Homo sapiens GN=ACO2 PE=1 SV=2",57,86113,3,3,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+227,CUL3_HUMAN,Cullin-3 OS=Homo sapiens GN=CUL3 PE=1 SV=2,56,89444,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+230,OGT1_HUMAN,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit OS=Homo sapiens GN=OGT PE=1 SV=3,55,118104,3,3,3,3
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+232,PLAK_HUMAN,Junction plakoglobin OS=Homo sapiens GN=JUP PE=1 SV=3,55,82434,3,3,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+236,UBP2L_HUMAN,Ubiquitin-associated protein 2-like OS=Homo sapiens GN=UBAP2L PE=1 SV=2,53,114579,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+243,COPA_HUMAN,Coatomer subunit alpha OS=Homo sapiens GN=COPA PE=1 SV=2,51,139797,4,4,4,4
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+248,HECD3_HUMAN,Probable E3 ubiquitin-protein ligase HECTD3 OS=Homo sapiens GN=HECTD3 PE=1 SV=1,49,98135,2,2,1,1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+252,MBRL_HUMAN,Membralin OS=Homo sapiens GN=C19orf6 PE=1 SV=1,48,68130,2,2,1,1
+,,,,,,,,
+253,MTA1_HUMAN,Metastasis-associated protein MTA1 OS=Homo sapiens GN=MTA1 PE=1 SV=2,47,81420,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+255,APC4_HUMAN,Anaphase-promoting complex subunit 4 OS=Homo sapiens GN=ANAPC4 PE=1 SV=2,46,92856,2,2,2,2
+,,,,,,,,
+256,OCRL_HUMAN,Inositol polyphosphate 5-phosphatase OCRL-1 OS=Homo sapiens GN=OCRL PE=1 SV=3,46,105392,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+261,ICAL_HUMAN,Calpastatin OS=Homo sapiens GN=CAST PE=1 SV=4,45,76925,2,2,2,2
+,,,,,,,,
+262,IF5A1_HUMAN,Eukaryotic translation initiation factor 5A-1 OS=Homo sapiens GN=EIF5A PE=1 SV=2,45,17049,3,3,2,2
+,,,,,,,,
+263,RIF1_HUMAN,Telomere-associated protein RIF1 OS=Homo sapiens GN=RIF1 PE=1 SV=2,44,276461,2,2,1,1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+267,CACO1_HUMAN,Calcium-binding and coiled-coil domain-containing protein 1 OS=Homo sapiens GN=CALCOCO1 PE=1 SV=2,43,77745,2,2,1,1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+269,RTF1_HUMAN,RNA polymerase-associated protein RTF1 homolog OS=Homo sapiens GN=RTF1 PE=1 SV=3,43,76705,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+271,GYS1_HUMAN,"Glycogen [starch] synthase, muscle OS=Homo sapiens GN=GYS1 PE=1 SV=2",43,84531,2,2,1,1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+274,PDXD1_HUMAN,Pyridoxal-dependent decarboxylase domain-containing protein 1 OS=Homo sapiens GN=PDXDC1 PE=1 SV=2,42,87565,2,2,2,2
+,,,,,,,,
+275,KIF2A_HUMAN,Kinesin-like protein KIF2A OS=Homo sapiens GN=KIF2A PE=1 SV=3,42,80589,3,3,3,3
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+277,CTR1_HUMAN,High affinity cationic amino acid transporter 1 OS=Homo sapiens GN=SLC7A1 PE=1 SV=1,42,68449,2,2,2,2
+,,,,,,,,
+278,ASCC2_HUMAN,Activating signal cointegrator 1 complex subunit 2 OS=Homo sapiens GN=ASCC2 PE=1 SV=3,41,87048,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+282,ERF3A_HUMAN,Eukaryotic peptide chain release factor GTP-binding subunit ERF3A OS=Homo sapiens GN=GSPT1 PE=1 SV=1,40,56348,2,2,2,2
+,,,,,,,,
+283,TLK2_HUMAN,Serine/threonine-protein kinase tousled-like 2 OS=Homo sapiens GN=TLK2 PE=1 SV=2,40,88405,2,2,2,2
+,,,,,,,,
+284,RH10L_HUMAN,Rho GTPase-activating protein 10-like OS=Homo sapiens PE=1 SV=2,40,89633,2,2,1,1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+290,FOXK1_HUMAN,Forkhead box protein K1 OS=Homo sapiens GN=FOXK1 PE=1 SV=1,39,75867,2,2,1,1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+293,TGON2_HUMAN,Trans-Golgi network integral membrane protein 2 OS=Homo sapiens GN=TGOLN2 PE=1 SV=2,38,51082,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+296,MIO_HUMAN,WD repeat-containing protein mio OS=Homo sapiens GN=MIOS PE=1 SV=2,37,100232,2,2,1,1
+,,,,,,,,
+297,RBP1_HUMAN,RalA-binding protein 1 OS=Homo sapiens GN=RALBP1 PE=1 SV=3,37,76415,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+303,COF1_HUMAN,Cofilin-1 OS=Homo sapiens GN=CFL1 PE=1 SV=3,35,18719,2,2,2,2
+,,,,,,,,
+304,CUL5_HUMAN,Cullin-5 OS=Homo sapiens GN=CUL5 PE=1 SV=4,35,91468,3,3,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+310,RBM12_HUMAN,RNA-binding protein 12 OS=Homo sapiens GN=RBM12 PE=1 SV=1,34,97561,3,3,3,3
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+314,STIM1_HUMAN,Stromal interaction molecule 1 OS=Homo sapiens GN=STIM1 PE=1 SV=3,32,77660,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+320,BA2L2_HUMAN,Protein BAT2-like 2 OS=Homo sapiens GN=BAT2L2 PE=1 SV=2,31,317473,2,2,1,1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+327,SF3B1_HUMAN,Splicing factor 3B subunit 1 OS=Homo sapiens GN=SF3B1 PE=1 SV=3,30,146479,2,2,2,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+331,CNOT1_HUMAN,CCR4-NOT transcription complex subunit 1 OS=Homo sapiens GN=CNOT1 PE=1 SV=2,29,269106,2,2,1,1

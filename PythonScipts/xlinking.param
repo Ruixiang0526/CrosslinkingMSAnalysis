@@ -1,0 +1,17 @@
+Replication_Amount,4
+Replication_Met_Rules,4
+Strip_Amount,4
+Strip_MW_1,70000
+Strip_MW_2,100000
+Strip_MW_3,130000
+Strip_MW_4,170000
+Strip_MW_5,9999999
+FTO_MW,59043
+TrueOrFalse,2
+Rownum_Protein,2
+Rownum_Protein_MW,5
+Rownum_Spectral_Count,7
+ResultName1,ProDic
+ResultName2,Assignment
+ResultName3,Filtration
+FileForPlot,Filtration
